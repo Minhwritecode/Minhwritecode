@@ -53,5 +53,5 @@
 
 ---
 ## 🧊 3D Rubik (Three.js Demo)
-👉 https://minhwritecode.github.io/Minhwritecode/threejs/
+👉 https://minhwritecode.github.io/Minhwritecode/threejs/index.html
 
