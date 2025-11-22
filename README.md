@@ -53,6 +53,6 @@
 
 ---
 ## 🧊 3D Rubik (Three.js Demo)
-👉 ![Rubik Neon](https://github.com/Minhwritecode/Minhwritecode/raw/main/rubik_neon.gif)
+![Rubik Neon](https://github.com/Minhwritecode/Minhwritecode/raw/main/rubik_neon.gif)
 
 
